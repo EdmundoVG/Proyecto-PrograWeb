@@ -1,3 +1,4 @@
-Proyecto para la materia de Programacion Web
-Basicamente una pgina chila de venta de hoteles
-Apresurado y con alguno que otro detalle, pero se le hecho ganas.
+Basic web page for hotel reservation.
+Its pretty basic as not much effort was put onto it, but it has a hearth haha.
+
+It was made with html, php, javascript
